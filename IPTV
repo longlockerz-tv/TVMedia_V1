@@ -41,7 +41,7 @@ https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv5/master.m3u8
 https://livevlisctcdnw.seenow.vn/livesnv2/VTV5_HD/manifest.mpd
 
 #EXTINF:-1 tvg-id="VTV6" group-title="VTV" tvg-logo="https://dvtshophcm.com/iptv/logo/vtv6.png",VTV6
-https://live-vtv-aws.vtvdigital.vn/VaWrvPWnVCnG9AsGu9q9mA/1792432800/aws/vtv6_free/live/vtv6_720p/chunks.m3u8
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv6__vtv720p-h264/index.m3u8
 
 #EXTINF:-1 tvg-id="VTV7" group-title="VTV" tvg-logo="https://dvtshophcm.com/iptv/logo/vtv7.png",VTV7
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv7/master.m3u8
